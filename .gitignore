@@ -1,0 +1,38 @@
+# OS Generated files #
+######################
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+
+# Logs and Databases #
+#####################
+*.log
+*.sql
+*.sqlite
+
+# Compiled Source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# Better to unpack these and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.iso
+*.gz
+*.jar
+*.rar
+*.tar
+*.zip
+
+# File Extensions #
+###################
+__pycache__/
